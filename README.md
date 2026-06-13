@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandun Siwantha</h1>
-<h3 align="center">Associate Electronic Engineer | Embedded Systems & AI Enthusiast</h3>
+<h3 align="center">Engineer – Industrial Technologies @ MillenniumIT ESP | IoT • DevOps • Edge-to-Cloud | Co-founder @BitBound-Technologies</h3>
 
 <p align="center">
 I’m passionate about building smart electronic systems with embedded programming, PCB and hardware design, and applying AI for real-world applications like sound-based drone detection and automation.
