@@ -7,7 +7,7 @@ I’m passionate about building smart electronic systems with embedded programmi
 
 ---
 
-- 🔧 I work as an Associate Electronic Engineer at **RCS2 Technologies**  
+- 🔧 I work as an Engineer – Industrial Technologies @ MillenniumIT ESP  
 - 📚 I hold a **BSc in Physics and Electronics** from **University of Kelaniya**  
 - 🤖 I build projects combining **MCU, Raspberry Pi, sensors, and AI/ML**  
 - 📈 Currently exploring **AI/ML, Networking**, and **autonomous robotics**
